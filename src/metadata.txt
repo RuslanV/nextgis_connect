@@ -9,6 +9,8 @@ author=NextGIS
 email=info@nextgis.com
 
 changelog=
+	1.0.1
+		* Check first change
 	1.0.0
 		* Drop Python 2 / Qt4 / QGIS 2 support
 	0.14.3
