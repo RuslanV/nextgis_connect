@@ -1,6 +1,0 @@
-<plugins>
-   <pyqgis_plugin name="ng_connect.py" version="1.0.0">
-       <qgis_minimum_version>3.30.0</qgis_minimum_version>
-        <download_url>https://github.com/RuslanV/nextgis_connect/blob/master/src/ng_connect.py</download_url>
-   </pyqgis_plugin>
-</plugins>
